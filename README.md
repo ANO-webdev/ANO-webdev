@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Emmanuel Otene 👋
 
-<!--
-**ANO-webdev/ANO-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack & Frontend Developer** building clean, fast, and modern web experiences for businesses across Europe.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I Do
+
+- **Frontend** — Pixel-perfect UIs with HTML, CSS, JavaScript, and React
+- **Full Stack** — End-to-end web apps with frontend + backend + database
+- **Web Presence** — Landing pages, business websites, and e-commerce builds
+- **Performance** — Fast-loading, mobile-responsive, SEO-ready sites
+
+---
+
+## 🌍 Portfolio Projects
+
+| Project | Description | Live |
+|---|---|---|
+| [Schnell Logistics](https://github.com/ANO-webdev/schnell-logistics) | German freight company website | [View Live](#) |
+| [Van der Berg Legal](https://github.com/ANO-webdev/vanderberg-legal) | Dutch law firm website | [View Live](#) |
+| [Maison Dubois](https://github.com/ANO-webdev/maison-dubois) | French bakery & café website | [View Live](#) |
+
+---
+
+## 💼 Open for Work
+
+I'm currently available for **freelance projects** — especially businesses in Europe looking for a reliable developer to build or improve their web presence.
+
+📩 **Reach me:** [emmanuel.otene@email.com](mailto:eotene61@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/emmanuelotene](https://www.linkedin.com/in/emmanuel-otene-bb84b740a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+---
+
+*Based in — Available worldwide remotely*
