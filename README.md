@@ -32,4 +32,4 @@ I'm currently available for **freelance projects** — especially businesses in 
 
 ---
 
-*Based in — Available worldwide remotely*
+*Based in Nigeria — Available worldwide remotely*
